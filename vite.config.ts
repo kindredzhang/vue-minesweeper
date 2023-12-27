@@ -1,5 +1,5 @@
 /// <reference types="vitest" />
-
+// kindred: https://github.com/
 import path from 'node:path'
 import { defineConfig } from 'vite'
 import Vue from '@vitejs/plugin-vue'
